@@ -1,7 +1,20 @@
-# CIS-553-TermProject
 
-## Form link
-[Google Form](https://forms.gle/xK2wuDPXLh8meQjT7)
+# Easy-Fill
 
-## Pre-fill Link
-https://docs.google.com/forms/d/e/1FAIpQLScGia1PMCFzaURH1UUX0DXtfzcQ-uyF8kStjZp0cDjccx5Cvw/viewform?usp=pp_url&entry.2109765752=First+name&entry.636569773=a&entry.958710338=a
+Transform your form-filling experience with our intuitive application. Simply listen to the form prompts, speak your answers, and let the app effortlessly complete the form for you. Enjoy a streamlined and accessible way to handle forms with ease.
+
+
+
+
+## Requirements
+Import these packages.
+- speech_recognition
+- requests
+- subprocess
+- webbrowser
+## Running the application
+Import the packages, change the form link in both the python files and run the application.
+
+
+## Form Link
+https://forms.gle/4iscfamthBZ2iKwh8

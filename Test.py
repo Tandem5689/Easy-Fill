@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import webbrowser
 
-url = 'https://docs.google.com/forms/d/e/1FAIpQLScGia1PMCFzaURH1UUX0DXtfzcQ-uyF8kStjZp0cDjccx5Cvw/formResponse?'
+url = 'https://forms.gle/M7TQMcJPwtZimWz87'
 
 def listen(prompt):
     r = sr.Recognizer()
